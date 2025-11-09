@@ -1,1 +1,4 @@
+HEAD
 This is master modification
+This is a new feature
+feature/new-feature
