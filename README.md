@@ -1,2 +1,15 @@
 # LR6
 Лабораторная работа №6
+Система контроля версий
+Работу  выполнил: студент группы 4441в Вакурова Татьяна Александровна
+**Цель работы:** *изучение базовых возможностей системы
+управления версиями, опыт работы с Git Api, опыт работы с локальным и
+удаленным репозиторием.*
+1. Сделана копия в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork)
+2. Установлен Git (https://git-scm.com/).
+3. После усвтановки настроен клиент Git
+   git config --global user.name "4441в Vakurova Tatyana"
+   git config --global user.email "vakurovatatyana@mail.ru"
+4. Клонирование репозитория на компьютер
+   git clone https://github.com/TatyanaVakurova/LR-4441v
+   
