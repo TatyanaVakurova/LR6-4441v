@@ -15,7 +15,7 @@
 
 **3. После установки настроен клиент Git**
 
-    git config --global user.name "4441в Vakurova Tatyana"
+    git config --global user.name "4441v Vakurova T.A."
     git config --global user.email "vakurovatatyana@mail.ru"
 **4. Клонирование репозитория на компьютер** (см. клонирование.png)
 
